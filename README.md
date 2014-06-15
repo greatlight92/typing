@@ -10,7 +10,7 @@
 Installation
 ---
 ```
-$gcc typing typing.c
+$gcc -o typing typing.c
 ```
 
 Usage
