@@ -7,4 +7,12 @@
 홍승비
 문성욱
 
+Installation
+```
+$gcc typing typing.c
+```
 
+Usage
+```
+$typing
+```
