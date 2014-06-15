@@ -8,11 +8,13 @@
 문성욱
 
 Installation
+---
 ```
 $gcc typing typing.c
 ```
 
 Usage
+---
 ```
 $typing
 ```
